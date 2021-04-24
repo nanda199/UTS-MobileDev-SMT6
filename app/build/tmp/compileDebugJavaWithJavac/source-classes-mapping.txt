@@ -1,0 +1,2 @@
+com/anmo/uts_18090132/BuildConfig.java
+ com.anmo.uts_18090132.BuildConfig
